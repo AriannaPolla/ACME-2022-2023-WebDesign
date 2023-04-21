@@ -31,3 +31,4 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Bossi Sara | https://github.com/BossiSara/NUOVO-PROGETTO-WEB-DESIGN | https://poetic-chaja-7179d1.netlify.app/ |
 | Iannuzzi Simona | https://github.com/simonaiannuzzi/progetto-web-design | https://spontaneous-custard-332bc6.netlify.app/ |
 | Fatta Francesca | https://github.com/francescafatta/Progetto-esame-Web-Design | https://stellar-taiyaki-255f2b.netlify.app/ |
+| Polla Arianna | https://github.com/AriannaPolla/AriannaMariaPolla/blob/main/README.md | https://glowing-travesseiro-1f6606.netlify.app/ |
